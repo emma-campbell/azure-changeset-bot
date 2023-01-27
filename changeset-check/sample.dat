@@ -1,3 +1,14 @@
 {
-    "name": "Azure"
+    "resource": {
+        "pullRequestId":"4392",
+        "repository":{
+            "id":"activities",
+            "project":{
+                "id":"54bc8bb5-7c81-41ef-b49d-6543aef6fd38"
+            }
+        },
+        "organization":{ 
+            "id":"HugoHealth"
+        }
+    }
 }
